@@ -1,3 +1,21 @@
+# Informações sobre o projeto
+
+Esse projeto está sendo criado junto ao curso DevMedia.
+
+Nele está sendo desenvolvido a página de uma loja de óculos.
+Está página está dividida em topo, 4 seções e rodapé.
+
+# Objetivo
+
+A proposta desse projeto é criar uma página web em React. Isso será feito dividindo a página em componentes menores.
+
+Para isso utilizaremos os conceitos de criação, importação e exportação de um componente.
+
+Ao criar esse projeto, será colocado em prática os seguintes conceitos:
+
+Criar, importar e exportar componentes;
+Organizar o código o dividindo em partes menores e arquivos isolados.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
