@@ -1,9 +1,10 @@
 import React from 'react';
+import "./style.css"
 
 export default function Topo() {
   return (
     <header>
-      <div>
+      <div className="limitar-secao secao-topo">
         <img src="./assets/imagens/logo.png"></img>
         <nav>
           <a href="#Produtos">PRODUTOS</a>
