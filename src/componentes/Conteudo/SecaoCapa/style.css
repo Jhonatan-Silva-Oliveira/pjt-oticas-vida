@@ -34,3 +34,14 @@
   line-height: 70px;
   letter-spacing: 5px;
 }
+
+@media  (max-width: 768px) {
+  .secao-capa-container h1 {
+    font-size: 40px;
+    max-width: 350px;
+  }
+  
+  .secao-capa-container p {
+    font-size: 20px;
+  }
+}
