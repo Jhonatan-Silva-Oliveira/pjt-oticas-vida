@@ -16,17 +16,17 @@ export default function SecaoProdutos() {
             <p>R$ 500,00</p>
           </div>
           <div className="card-produtos">
-            <h3>Óculos de grau</h3>
+            <h3>Óculos transition</h3>
             <img src="../assets/imagens/oculos02.png"></img>
             <p>R$ 500,00</p>
           </div>
           <div className="card-produtos">
-            <h3>Óculos de grau</h3>
+            <h3>Óculos de sol</h3>
             <img src="../assets/imagens/oculos03.png"></img>
             <p>R$ 500,00</p>
           </div>
           <div className="card-produtos">
-            <h3>Óculos de grau</h3>
+            <h3>Óculos infantil</h3>
             <img src="../assets/imagens/oculos04.png"></img>
             <p>R$ 500,00</p>
           </div>

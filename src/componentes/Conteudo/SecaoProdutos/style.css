@@ -67,3 +67,17 @@
     font-size: 16px;
   }
 }
+
+@media  (max-width: 550px) {
+  .secao-produtos {
+    padding: 60px 10px;
+  }
+  
+  .card-produtos {
+    width: 100%;
+  }
+  
+  .secao-produtos ul {
+    align-items: start;
+  }
+}

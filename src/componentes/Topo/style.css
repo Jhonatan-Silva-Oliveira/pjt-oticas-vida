@@ -20,3 +20,17 @@ header {
   padding: 5px;
   margin: 0 5px;
 }
+
+@media  (max-width: 550px) {
+  .secao-topo {
+    flex-direction: column;
+  }
+  
+  .secao-topo nav {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-top: 1px solid #aaadaf;
+  }
+}

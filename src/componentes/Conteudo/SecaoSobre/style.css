@@ -62,3 +62,18 @@
     font-size: 16px;
   }
 }
+
+@media  (max-width: 550px) {
+  .secao-sobre {
+    padding: 60px 10px;
+  }
+  
+  .cards-container-sobre {
+    flex-wrap: column;
+  }
+  
+  .card-sobre {
+    width: 100%;
+    height: 300px;
+  }
+}
