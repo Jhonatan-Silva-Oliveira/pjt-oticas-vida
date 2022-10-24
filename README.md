@@ -1,8 +1,8 @@
 # Informações sobre o projeto
 
-Esse projeto está sendo criado junto ao curso DevMedia.
+Esse projeto foi desenvolvido junto ao curso React componentes da DevMedia.
 
-Nele está sendo desenvolvido a página de uma loja de óculos.
+Nele criamos a página de uma loja de óculos.
 Está página está dividida em topo, 4 seções e rodapé.
 
 # Objetivo
