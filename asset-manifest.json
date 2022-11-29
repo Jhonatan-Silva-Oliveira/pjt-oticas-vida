@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pjt-oticas-vida/static/css/main.90785488.css",
+    "main.js": "/pjt-oticas-vida/static/js/main.a599319b.js",
+    "static/js/787.b2c64e96.chunk.js": "/pjt-oticas-vida/static/js/787.b2c64e96.chunk.js",
+    "static/media/capa.png": "/pjt-oticas-vida/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/pjt-oticas-vida/index.html",
+    "main.90785488.css.map": "/pjt-oticas-vida/static/css/main.90785488.css.map",
+    "main.a599319b.js.map": "/pjt-oticas-vida/static/js/main.a599319b.js.map",
+    "787.b2c64e96.chunk.js.map": "/pjt-oticas-vida/static/js/787.b2c64e96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90785488.css",
+    "static/js/main.a599319b.js"
+  ]
+}
