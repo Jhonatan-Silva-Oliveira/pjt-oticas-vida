@@ -1,20 +1,45 @@
-# Informações sobre o projeto
+# Projeto de Web Site: Óticas-Vida
 
-Esse projeto foi desenvolvido junto ao curso React componentes da DevMedia.
+Esse projeto foi criado e desenvolvido junto ao curso [DevMedia](https://www.devmedia.com.br/cursos/)
 
-Nele criamos a página de uma loja de óculos.
-Está página está dividida em topo, 4 seções e rodapé.
+Carreira Programador Front-end » 14ª Missão » Construa o site de uma ótica utilizando React
 
-# Objetivo
+## Objetivo
 
 A proposta desse projeto é criar uma página web em React. Isso será feito dividindo a página em componentes menores.
 
 Para isso utilizaremos os conceitos de criação, importação e exportação de um componente.
 
 Ao criar esse projeto, será colocado em prática os seguintes conceitos:
+<ul>
+  <li>Criar, importar e exportar componentes;</li>
+  <li>Organizar o código o dividindo em partes menores e arquivos isolados.</li>
+</ul>
 
-Criar, importar e exportar componentes;
-Organizar o código o dividindo em partes menores e arquivos isolados.
+## Conhecendo o projeto
+
+Esse projeto é a página de uma loja de óculos.
+
+Está página, está dividida em topo, 4 seções e rodapé. Além de possuir capacidade para se adaptar a diferentes tamanhos de tela.
+
+<div>
+  <h3>Banner</h3>
+  
+  ![Óticas-Vida-Banner](https://user-images.githubusercontent.com/109807189/204596439-f602a882-750a-49a0-8cbb-fbdc03950177.png)
+  
+  <h3>Banner - Layout mobile</h3>
+  
+  ![Óticas-Vida-Banner-Response](https://user-images.githubusercontent.com/109807189/204596561-7a3aeac4-0b7f-4f94-b461-b0b3b76f9615.png)
+  
+</div>
+
+## Autor
+
+Jhonatan da Silva Oliveira
+
+https://www.linkedin.com/in/jhonatan-silva-oliveira/
+
+---
 
 # Getting Started with Create React App
 
